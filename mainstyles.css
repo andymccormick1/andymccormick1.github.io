@@ -40,7 +40,7 @@
 }
 
 .dropdown-menu a:hover {
-    background-color: #060606;
+    background-color: red;
 }
 
 .dropdown:hover  .dropdown-menu {
