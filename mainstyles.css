@@ -47,6 +47,8 @@
     display: block;
     position: absolute;
     background-color:rgb(9, 9, 9);
+    border-radius: 6px;
+    margin-top: 5px;
 
 }
 
