@@ -17,25 +17,12 @@
     font-size: 16px;
 }
 
+.navbar a:hover {
+    background-color: red;
+}
+
 .dropdown {
     display: flex
-}
-
-.dropdown .dropdownbutton {
-    display:f flex;
-    font-size: 16px;
-    border: none;
-    outline:inherit;
-    outline: none;
-    color: inherit;
-    padding: inherit;
-    background-color: inherit;
-    font-family: inherit;
-    margin: 0;
-}
-
-.navbar a:hover, .dropdown:hover {
-    background-color: red;
 }
 
 .dropdown-menu {
@@ -45,6 +32,7 @@
     min-width: 160px;
     z-index: 1;
 }
+
 
 .dropdown-menu a {
     float: none;
@@ -59,6 +47,6 @@
 }
 
 .dropdown:hover  .dropdown-menu {
- display: block;
+ display: flex;
 }
 
