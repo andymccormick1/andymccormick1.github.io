@@ -1,4 +1,4 @@
-.navbar {
+.navbar, .dropdown .dropdownbutton {
     display: flex;
     flex-flow: row wrap;
     justify-content: flex-end;
@@ -20,7 +20,7 @@
 .dropdown {
     overflow: hidden;
 }
-
+/*
 .dropdown .dropdownbutton {
     font-size: 16px;
     border: none;
@@ -32,7 +32,7 @@
     font-family: inherit;
     margin: 0;
 }
-
+*/
 .navbar a:hover, .dropdown:hover .dropdownbutton {
     background-color: red;
 }
