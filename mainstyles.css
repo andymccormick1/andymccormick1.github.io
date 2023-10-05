@@ -27,26 +27,26 @@
 
 .dropdown-menu {
     display: none;
-    position: absolute;
-    background-color:aqua;
-    min-width: 160px;
-    z-index: 1;
+
 }
 
 
 .dropdown-menu a {
     float: none;
-    color: black;
+    color: rgb(255, 254, 254);
     padding: inherit;
     display: block;
     text-align: left;
 }
 
 .dropdown-menu a:hover {
-    background-color: #ddd;
+    background-color: #060606;
 }
 
 .dropdown:hover  .dropdown-menu {
- display: flex;
+    display: block;
+    position: absolute;
+    background-color:rgb(9, 9, 9);
+
 }
 
