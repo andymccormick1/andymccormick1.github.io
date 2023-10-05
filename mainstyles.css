@@ -16,9 +16,9 @@
     color: white;
     font-size: 16px;
 }
-/*
+
 .dropdown {
-    overflow: hidden;
+    display: none
 }
 
 .dropdown .dropdownbutton {
@@ -57,7 +57,7 @@
     background-color: #ddd;
 }
 
-.dropdown:hover + .dropdown-menu {
+.dropdown:hover  .dropdown-menu {
  display: block;
 }
-*/
+
