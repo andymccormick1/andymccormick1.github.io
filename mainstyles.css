@@ -6,6 +6,7 @@
     background: rgb(4, 4, 4);
     border-radius: 3px;
     box-sizing: border-box;
+    width: 100%;
 }
 
 .navbar a {
@@ -42,7 +43,7 @@
 .dropdown:hover  .dropdown-menu {
     display: block;
     position: absolute;
-    background:rgb(9, 9, 9);
+    background:rgb(75, 74, 74);
     border-radius: 3px;
     margin-top: 5px;
     width: 100%;
