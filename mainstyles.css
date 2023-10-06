@@ -12,6 +12,7 @@
     text-decoration: none;
     color: white;
     padding: 5px 10px;
+    flex-grow: 1;
 }
 
 .navbar a:hover {
