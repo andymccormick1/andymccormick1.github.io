@@ -15,6 +15,7 @@
     padding: 1em;
     color: white;
     font-size: 16px;
+    border-radius: 3px;
 }
 
 .navbar a:hover {
@@ -27,28 +28,27 @@
 
 .dropdown-menu {
     display: none;
-
 }
 
 
 .dropdown-menu a {
     float: none;
     color: rgb(255, 254, 254);
-    padding: inherit;
+    padding: 5px 10px;
     display: block;
     text-align: left;
 }
 
 .dropdown-menu a:hover {
     background-color: red;
+    border-radius: 3px;
 }
 
 .dropdown:hover  .dropdown-menu {
     display: block;
     position: absolute;
     background-color:rgb(9, 9, 9);
-    border-radius: 6px;
+    border-radius: 3px;
     margin-top: 5px;
-
 }
 
