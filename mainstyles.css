@@ -1,4 +1,4 @@
-.navbar {
+.navbar, .dropdown {
     display: flex;
     flex-flow: row wrap;
     justify-content: space-evenly;
@@ -20,10 +20,6 @@
 
 .navbar a:hover {
     background-color: red;
-}
-
-.dropdown {
-    display: flex
 }
 
 .dropdown-menu {
