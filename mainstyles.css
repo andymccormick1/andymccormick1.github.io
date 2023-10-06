@@ -2,10 +2,10 @@
     display: flex;
     justify-content: space-evenly;
     position: fixed;
-    align-items: center;
     list-style: none;
     background: rgb(4, 4, 4);
     border-radius: 3px;
+    box-sizing: border-box;
 }
 
 .navbar a {
