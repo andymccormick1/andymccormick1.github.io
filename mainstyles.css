@@ -19,11 +19,6 @@
     background: red;
     border-radius: 3px;
 }
-/*
-.dropdown {
-    display: flex
-}
-*/
 
 .dropdown-menu {
     display: none;
