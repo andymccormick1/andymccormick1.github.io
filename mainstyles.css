@@ -19,7 +19,8 @@
 }
 
 .navbar a:hover {
-    background-color: red;
+    background-color: rgb(97, 96, 96);
+    border-radius: 3px;
 }
 
 .dropdown-menu {
@@ -36,7 +37,7 @@
 }
 
 .dropdown-menu a:hover {
-    background-color: red;
+    background-color:  rgb(97, 96, 96);
     border-radius: 3px;
 }
 
