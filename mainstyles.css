@@ -9,6 +9,7 @@
 }
 
 .navbar a {
+    display: flex;
     text-decoration: none;
     color: white;
     padding: 10px 10px;
