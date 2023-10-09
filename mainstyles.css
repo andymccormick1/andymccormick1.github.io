@@ -1,6 +1,7 @@
 .navbar {
     display: flex;
-    justify-content: space-evenly;
+    justify-content: flex-end;;
+    align-items: center;
     position: fixed;
     list-style: none;
     background: rgb(4, 4, 4);
@@ -17,6 +18,10 @@
     color: white;
     padding: 10px 10px;
     flex-grow: 1;
+}
+
+.navbar a {
+    color: white;
 }
 
 .navbar a:hover {
