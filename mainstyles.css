@@ -11,7 +11,7 @@
     top: 0;
     margin-top: 0;
     gap: 10px;
-    padding: 0, 20px;
+    padding: 0 20px;
 }
 
 .navbar a {
@@ -22,9 +22,8 @@
     flex-grow: 1;
 }
 
-.navbar.main_title {
+.main_title {
     color: white;
-    margin-right: 100%;
 }
 
 .navbar a:hover {
