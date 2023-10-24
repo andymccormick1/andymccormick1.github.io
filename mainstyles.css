@@ -10,6 +10,8 @@
     width: 100%;
     top: 0;
     margin-top: 0;
+    gap: 10px;
+    padding: 0, 20px;
 }
 
 .navbar a {
@@ -20,8 +22,9 @@
     flex-grow: 1;
 }
 
-.navbar a {
+.navbar.main_title {
     color: white;
+    margin-right: 100%;
 }
 
 .navbar a:hover {
